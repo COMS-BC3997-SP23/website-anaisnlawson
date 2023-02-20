@@ -21,8 +21,4 @@ It seems like Doordash is the most popular option and the Grubhub least popular 
 
 [Popular Delivery Apps](https://www.cnet.com/tech/services-and-software/best-food-delivery-service/)
 
-***
-
-## Planning
-
 [< Back](./)
