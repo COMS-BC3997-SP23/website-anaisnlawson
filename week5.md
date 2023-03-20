@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
+## Refined Figma
+I wanted to refine my figma design even further to try to get feedback from my client so this is another walkthrough
 
+![test](assets/website-run.mov)
 ## Working with React (Plot twist -- Not through gatsby)
 Like I mentioned last week I'm not too familair with gatsy so I decided to make it more simple to make it easier to address errors 
 For creating the website I had to reconsidered utuilizing gatsby and decided to go more barebones after discussing with my partners. 
